@@ -17,3 +17,33 @@ It includes:
 - Correlation Analysis: Calculate correlations between features, visualize with a heatmap, and examine scatter plots for linear relationships.
 
 - Insights: Findings include strong correlations between square footage and bathrooms/price, weaker correlations with bedrooms, and moderate positive correlations with other features in price per square foot.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### TASK 2
+
+## HYPOTHESIS TESTING
+
+1. **Objective:**
+   - Determine if a claim about a population parameter is supported by sample data.
+
+2. **Null Hypothesis (\( H_0 \)):**
+   - Assumption that there is no significant difference or effect.
+   
+3. **Alternative Hypothesis (\( H_1 \)):**
+   - Contrary to the null hypothesis, stating there is a significant difference or effect.
+
+4. **Test Statistic:**
+   - A numerical value computed from sample data used to assess the truth of the null hypothesis.
+
+5. **Significance Level (\( \alpha \)):**
+   - Threshold for accepting or rejecting the null hypothesis, typically set at 0.05.
+
+6. **Critical Value:**
+   - Threshold value beyond which the null hypothesis is rejected.
+
+7. **Decision Rule:**
+   - Criteria used to decide whether to reject the null hypothesis based on the test statistic and critical value.
+
+8. **Conclusion:**
+   - Final determination based on the decision rule, indicating whether there is enough evidence to support the alternative hypothesis.
