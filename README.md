@@ -3,7 +3,7 @@
 ### TASK 1
  
 ## OUTLIER DETECTION AND CORRELATION ANALYSIS
-
+Dataset = https://drive.google.com/file/d/137w_fwScAJtSbteo_HL0BxqhtJ9Gocsr/view?usp=sharing
 This project analyzes Bangalore property prices, focusing on price per square foot. Steps include: data loading, outlier detection (mean, percentile, IQR, normal distribution, Z-score), visualization (box plots, histogram), correlation analysis (heatmap, scatter plots), yielding insights like strong correlations between square footage and price.
 It includes:
 
