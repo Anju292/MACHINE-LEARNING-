@@ -1,7 +1,7 @@
 # MACHINE-LEARNING
 
 ### TASK 1
-
+ 
 ## OUTLIER DETECTION AND CORRELATION ANALYSIS
 
 This project analyzes Bangalore property prices, focusing on price per square foot. Steps include: data loading, outlier detection (mean, percentile, IQR, normal distribution, Z-score), visualization (box plots, histogram), correlation analysis (heatmap, scatter plots), yielding insights like strong correlations between square footage and price.
