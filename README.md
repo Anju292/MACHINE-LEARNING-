@@ -73,3 +73,57 @@ Explore the data, list down the unique values in each feature and find its lengt
 - Convert categorical variables into numerical representations using techniques such as one-hot encoding, label encoding, making them suitable for analysis by machine learning algorithms.
 **Feature Scaling**: 
 - After the process of encoding, perform the scaling of the features using standardscaler and minmaxscaler.
+
+### TASK 4
+
+## REGRESSION
+
+In your project, you applied five regression algorithms to model the price of cars based on various independent variables. These algorithms were Linear Regression, Decision Tree Regressor, Random Forest Regressor, Gradient Boosting Regressor, and Support Vector Regressor.
+
+Dataset = https://drive.google.com/file/d/1PnOCTPJMP4oaG_1T0iR3qu0DRguhsrWm/view?usp=drive_link
+
+The goal was to identify significant factors influencing car prices in the American market and understand how well these variables describe price variations. By analyzing the dataset, you aimed to provide insights for the Chinese automobile company to make informed decisions regarding their entry into the US market.
+
+- The objective was to determine the influential factors affecting car prices in the American market.
+  
+- The analysis aimed to understand the effectiveness of these variables in explaining price variations.
+
+- Each algorithm underwent training and evaluation using metrics like Mean Squared Error and R^2 Score.
+
+- Visualizations, including scatter plots of actual vs predicted prices, were utilized for performance assessment.
+
+- The project aimed to furnish insights for a Chinese automobile company venturing into the US market.
+
+- The ultimate goal was to equip the management with a predictive model to grasp pricing dynamics.
+
+- This understanding would facilitate strategic adjustments in business operations and product strategies.
+
+- The end objective was to enable the company to compete effectively with US and European counterparts.
+
+In summary, the project involved applying regression algorithms to discern pricing factors in the American market, aiding the company's market entry strategy by providing actionable insights and predictive capabilities for pricing dynamics.
+
+### TASK 5
+
+## Classification and Clustering: Project Overview
+
+In this project, I utilized the Iris flower dataset from sklearn.datasets to perform both classification and clustering tasks. The dataset contains 150 samples, each with four features: Sepal Length, Sepal Width, Petal Length, and Petal Width. The objective was to classify each flower into one of three categories: Setosa, Versicolour, or Virginica.
+
+1. Classification:
+   - **Model Training**: Utilized logistic regression to train a classification model on the Iris dataset. The model was trained using the four features to predict the class labels.
+   - **Accuracy Evaluation**: Evaluated the accuracy of the trained model to assess its performance in predicting flower categories.
+   - **Prediction**: Used the trained model to predict the class labels for different samples in the test dataset.
+
+2. Clustering:
+   - **Feature Selection**: Excluded the target variable (class labels) from the Iris dataset to prepare it for clustering algorithms.
+   - **Clustering Algorithms**: Utilized various clustering algorithms such as K-means clustering, Hierarchical clustering, or DBSCAN to cluster the data points based on the four features.
+   - **Evaluation**: Evaluated the clustering results to determine how well the algorithms grouped the data points into distinct clusters.
+
+Overall, the project involved utilizing the Iris dataset for both classification and clustering tasks. Through classification, I trained a model to predict flower categories based on the provided features and evaluated its accuracy. In clustering, I applied different algorithms to group the data points into clusters based on similarities in the feature space.
+
+
+
+
+
+
+
+
